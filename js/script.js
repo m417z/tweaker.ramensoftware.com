@@ -100,9 +100,11 @@ $(function() {
             navText: ['<span class="ti-arrow-left"></span>', '<span class="ti-arrow-right"></span>'],
             responsive: {
                 0: {
+                    autoWidth: false,
                     items: 1
                 },
-                768: {
+                992: {
+                    autoWidth: true,
                     items: 3
                 }
             }
