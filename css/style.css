@@ -7,7 +7,7 @@ Version : 1.0
 Author  : Surjith S M
 URI     : https://surjithctly.in/
 
-Copyright © All rights Reserved 
+Copyright © All rights Reserved
 
 */
 
@@ -227,6 +227,18 @@ header {
     color: #FFF;
     max-width: 800px;
     margin: 0 auto;
+}
+
+.notice {
+    font-size: 14px;
+    font-weight: 300;
+    color: #FFF;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.notice a {
+    color: hsl(214, 88%, 60%);
 }
 
 .screenshot {
